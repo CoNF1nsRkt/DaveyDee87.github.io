@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://DaveyDee87.github.io
+title: ~/.blog
+tagline: A linux admin journal
+description: this is a place for some newbish tips
+paginate: 5
